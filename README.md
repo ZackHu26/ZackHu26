@@ -1,9 +1,9 @@
 # Hello, I'm Xiuqi(Zack) Hu 👋
 
 ### About Me
-- 🧑‍💻 I’m currently seeking jobs.
+- 🧑‍💻 I’m currently seeking jobs related to software, website and game developer.
 - 🌱 I’m currently learning Golang.
-- 💼 I’m looking to collaborate on open source project.
+- 💼 I’m looking to collaborate on open source projects.
 - 💬 Ask me about frontend and backend development and API design.
 - 📫 How to reach me: zackhu26@outlook.com. | [LinkedIn]: www.linkedin.com/in/xiuqi-zack-hu-7119551a3
 
